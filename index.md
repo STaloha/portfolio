@@ -8,8 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Kitten](Finn.jpg "A cute kitten")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+sarah remember to make this videogame https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/
 ```markdown
 Syntax highlighted code block
 
